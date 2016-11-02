@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "You make me wanna be a better man"
+description: "愿你被这世界温柔以待"
 header-img: "img/orange.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "天行健，君子当自强不息"
 header-img: "img/green.jpg"
 ---
 
@@ -10,9 +10,9 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是苏海昇，感谢这段经历，让我成为了现在的我。
 
-现在研习 **认知写作学** 。
+现在主攻 **Computer Vision** 。
 
 ###坚信
 
@@ -53,19 +53,17 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：suhaisheng.github.io](suhaisheng.github.io)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [微博@骑猪丶看日落](http://weibo.com/u/2338566943)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
+- [知乎@Awesomething](https://www.zhihu.com/people/sjtushs)
 
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
+- [知乎专栏](https://www.zhihu.com/people/sjtushs)
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="img/red.jpg" align="center"></p>
 </center>
 
 

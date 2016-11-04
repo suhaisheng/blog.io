@@ -10,61 +10,31 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是苏海昇，感谢这段经历，让我成为了现在的我。
 
-现在主攻 **Computer Vision** 。
-
-###坚信
-
-
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+- SuHaisheng, iOS Developer and try full stack!
+- I like something cool, just like Apple’s product. And be interested in algorithm and computer science, especially data structure. I’m a vimer!
+- Now a student in Central South University.
+- Just been accepted as a graduate student of Shanghai Jiao Tong University.
+- Major in **Computer Vision** .
 
 
-###关注：
+Motto:
 
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+Here’s to the crazy ones. The misfits. The rebels. The troublemakers.The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.
 
 
 
 
-###代表作：
+Contact:
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+- [Blog：suhaisheng.github.io](suhaisheng.github.io)
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
+- [Weibo：低调的小毛驴](http://weibo.com/u/2338566943)
 
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
-
-
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
-
-###联系
-
-- [博客：suhaisheng.github.io](suhaisheng.github.io)
-
-- [微博@骑猪丶看日落](http://weibo.com/u/2338566943)
-
-- [知乎@Awesomething](https://www.zhihu.com/people/sjtushs)
-
-- [知乎专栏](https://www.zhihu.com/people/sjtushs)
+- [知乎：@Awesomething](https://www.zhihu.com/people/sjtushs)
 
 
-<center>
-    <p><img src="img/red.jpg" align="center"></p>
-</center>
+
 
 
 

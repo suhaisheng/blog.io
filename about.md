@@ -31,7 +31,7 @@ Contact:
 
 - [Weibo：低调的小毛驴](http://weibo.com/u/2338566943)
 
-- [知乎：@Awesomething](https://www.zhihu.com/people/sjtushs)
+- [Zhihu：@Awesomething](https://www.zhihu.com/people/sjtushs)
 
 
 

@@ -1,23 +1,23 @@
 ---
-layout: page    
-header-img: "img/birds.jpg"  
-description: "我走路带风"
-permalink: Interview.html  
+layout: page
+header-img: "img/birds.jpg"
+description: "gone with the wind"
+permalink: Interview.html
 ---
 
 <!DOCTYPE html>
 <html>
 <head>
-<script src="http://simplewebrtc.com/latest.js"></script>
+    <script src="http://simplewebrtc.com/latest.js"></script>
 
-<style>
-  #remoteVideos video {
-      height: 500px;
-  }
-  #localVideo {
-      height: 500px;
-  }
-</style>
+    <style>
+        #remoteVideos video {
+            height: 500px;
+        }
+        #localVideo {
+            height: 500px;
+        }
+    </style>
 </head>
 <body>
 
@@ -25,15 +25,15 @@ permalink: Interview.html
 <div id="remoteVideos"></div>
 
 <script>
-var webrtc = new SimpleWebRTC({
+    var webrtc = new SimpleWebRTC({
         localVideoEl: 'localVideo',
         remoteVideosEl: 'remoteVideos',
         autoRequestMedia: true
-});
+    });
 
-webrtc.on('readyToCall', function () {
+    webrtc.on('readyToCall', function () {
         webrtc.joinRoom('rendezvous');
-});
+    });
 </script>
 </body>
 </html>

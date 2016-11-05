@@ -4,11 +4,12 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "苏海昇"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://cnfeat"
+encoding: UTF-8
 
 # About/contact
 owner: 
-name: " CnFeat"
+name: " SuHaisheng"
 email: CnFeat@gmail.com
 bio: "写就"
 

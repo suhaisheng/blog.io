@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "我走路带着风"
+description: "Efforts enable everything!"
 header-img: "img/zhihu.jpg"
 ---
 

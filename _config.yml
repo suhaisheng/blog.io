@@ -5,12 +5,12 @@ tagline: "cn"
 description: "苏海昇"  
 baseurl: ""
 url: "http://cnfeat"
-encoding: UTF-8
+encoding: "UTF-8"
 
 # About/contact
-owner: 
+owner: "SuHaisheng"
 name: " SuHaisheng"
-email: CnFeat@gmail.com
+email: "suhaisheng0527@126.com"
 bio: "写就"
 
 # Data
@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "SuHaisheng"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 

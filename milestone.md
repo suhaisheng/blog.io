@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "milestone"
+title: "Milestone"
 description: "Efforts Enable Everything!"
 header-img: "img/zhihu.jpg"
 ---

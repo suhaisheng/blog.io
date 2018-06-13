@@ -28,16 +28,17 @@ E-mail: suhaisheng@sjtu.edu.cn
 
 **Publications**
 
-
+**Professional Services**
+- Journal Reviewer: Neurocomputing
 ---
 
 **Contact**:
 
 - [Blog：suhaisheng.github.io](suhaisheng.github.io)
 
-- [Weibo：低调的小毛驴](http://weibo.com/u/2338566943)
+- [Weibo：SuHhsheng](http://weibo.com/u/2338566943)
 
-- [Zhihu：@Awesomething](https://www.zhihu.com/people/sjtushs)
+- [Zhihu：@苏海昇](https://www.zhihu.com/people/sjtushs)
 
 ---
 Lasted modified: June 13 2018

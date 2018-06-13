@@ -1,27 +1,32 @@
 ---
 layout: page
 title: "About"
-description: "天行健，君子当自强不息"
+description: "Too young too simple"
 header-img: "img/green.jpg"
 ---
 
+**Haisheng Su （苏海昇）**:
+Master Candidate
+Vision Lab, Department of Automation
+Shanghai Jiao Tong University
 
-<center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
+2-208 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P.R. 
+China 
+E-mail: suhaisheng@sjtu.edu.cn 
+---
+**Biography**
+- I am a first-year graduate student in in the Computer Vision Laboratory, Shanghai Jiao Tong University, advised by Prof. Xu Zhao. I received my B.Eng from School of Automation at Central South University in 2017.
 
-
-- SuHaisheng, iOS Developer and try full stack!
-- I like something cool, just like Apple’s product. And be interested in algorithm and computer science, especially data structure. I’m a vimer!
-- Now a student in Central South University.
-- Just been accepted as a graduate student of Shanghai Jiao Tong University.
-- Major in **Computer Vision** .
+**Research Interests**
+- My research interests include: Computer Vision, Deep Learning, Action Recognition, Temporal Action Detection, Weakly Supervised Learning.
 
 ---
 
-**Motto**:
+**Recent Activities**:
 
-Here’s to the crazy ones. The misfits. The rebels. The troublemakers.The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.
+- Our team SJTU won the first place in Temporal Action Localization task and second place in Temporal Action Proposal task of ActivityNet Large Scale Activity Recognition Challenge 2018! This year the challenge is hosted together with CVPR'18.
+
+**Publications**
 
 
 ---
@@ -34,8 +39,8 @@ Here’s to the crazy ones. The misfits. The rebels. The troublemakers.The round
 
 - [Zhihu：@Awesomething](https://www.zhihu.com/people/sjtushs)
 
-
-
+---
+Lasted modified: June 13 2018
 
 
 

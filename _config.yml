@@ -1,5 +1,5 @@
 # Site settings
-title: Su.HS
+title: Haisheng Su
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "苏海昇"  
@@ -8,10 +8,10 @@ url: "http://cnfeat"
 encoding: "UTF-8"
 
 # About/contact
-owner: "SuHaisheng"
-name: " SuHaisheng"
-email: "suhaisheng0527@126.com"
-bio: "写就"
+owner: "Su Haisheng"
+name: " Su Haisheng"
+email: "suhaisheng@sjtu.edu.cn"
+bio: "Curriculum vitae"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png

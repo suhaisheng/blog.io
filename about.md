@@ -9,7 +9,6 @@ header-img: "img/green.jpg"
 - Master Candidate
 - Vision Lab, Department of Automation
 - Shanghai Jiao Tong University
-
 - 2-208 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P.R. 
 - China 
 - E-mail: suhaisheng@sjtu.edu.cn

@@ -39,8 +39,6 @@ header-img: "img/green.jpg"
 
 - [Blog：suhaisheng.github.io](suhaisheng.github.io)
 
-- [Weibo：SuHhsheng](http://weibo.com/u/2338566943)
-
 - [Zhihu：@苏海昇](https://www.zhihu.com/people/sjtushs)
 
 ---

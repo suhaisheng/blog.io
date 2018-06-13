@@ -12,7 +12,7 @@ header-img: "img/green.jpg"
 
 - 2-208 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P.R. 
 - China 
-- E-mail: suhaisheng@sjtu.edu.cn 
+- E-mail: suhaisheng@sjtu.edu.cn
 
 ---
 

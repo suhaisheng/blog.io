@@ -33,6 +33,19 @@ header-img: "img/green.jpg"
 **Professional Services**
 - Journal Reviewer: Neurocomputing
 
+**Scholarships**
+- Oct 2017 Excellent Graduta Student Scholarship (Top 10% in automation department)
+- Dec 2015 National Scholarship (highest honor for undergradutes, top 2% nationwide)
+- Dec 2014 Seagate Scholarship
+- Dec 2014 & Dec 2015 & Dec 2016 First Prize Scholarship (TOP 5% in China, three-year continuous)
+
+**Honors and Awards**
+- Nov 2017 Second Class Winner in 2017 National Postgraduate Mathematical Contest in Modeling (NPMCM)
+- Apr 2016 Honorable Mention in 2016 Mathematical Contest in Modeling (MCM)
+- Aug 2016 Third Class Winner in 2016 National College Student Robot Contest (RoboMasters)
+- Dec 2015 Second Class Winner in 2015 Asia and Pacific Mathematical Contest in Modeling (APMCM)
+- May 2015 Third Class Winner in 2015 National English Competition for College Students （NECCS)
+
 ---
 
 **Contact**:

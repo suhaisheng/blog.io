@@ -19,6 +19,7 @@ header-img: "img/green.jpg"
 - I am a first-year graduate student in the Computer Vision Laboratory, Shanghai Jiao Tong University, advised by Prof. Xu Zhao. I received my B.Eng from School of Information Science and Engineering at Central South University in 2017.
 
 **Education**
+
 Shanghai Jiao Tong University, Shanghai, China (Sep 2017 - March 2020)
 - Master of Science(MSc), Control Science and Engineering
 - Major Orientation: Computer Vision

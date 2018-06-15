@@ -38,7 +38,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 - Our team SJTU won the first place in Temporal Action Localization task and second place in Temporal Action Proposal task of ActivityNet Large Scale Activity Recognition Challenge 2018! This year the challenge is hosted together with CVPR'18.
 
 **Publications**
-
+- Tianwei Lin, Xu Zhao, Haisheng Su, Chongjing Wang, Ming Yang. BSN:Boundary Sensitive Network for Temporal Action Proposal Generation. Submission to ECCV 2018.
 
 **Professional Services**
 - Journal Reviewer: Neurocomputing

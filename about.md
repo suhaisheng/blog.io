@@ -16,7 +16,16 @@ header-img: "img/green.jpg"
 ---
 
 **Biography**
-- I am a first-year graduate student in the Computer Vision Laboratory, Shanghai Jiao Tong University, advised by Prof. Xu Zhao. I received my B.Eng from School of Information science and Engineering at Central South University in 2017.
+- I am a first-year graduate student in the Computer Vision Laboratory, Shanghai Jiao Tong University, advised by Prof. Xu Zhao. I received my B.Eng from School of Information Science and Engineering at Central South University in 2017.
+
+**Education**
+Shanghai Jiao Tong University, Shanghai, China (Sep 2017 - March 2020)
+- Master of Science(MSc), Control Science and Engineering
+- Major Orientation: Computer Vision
+
+Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
+- Bachelor of Science(BSc), Automation
+- Overall performance ranked: top 1%   Academic Performance: 91.00/100
 
 **Research Interests**
 - My research interests include: Computer Vision, Deep Learning, Action Recognition, Temporal Action Detection, Weakly Supervised Learning.

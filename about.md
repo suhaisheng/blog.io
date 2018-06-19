@@ -39,7 +39,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 
 **Publications**
 - Tianwei Lin, Haisheng Su, Xu Zhao. Boundary Sensitive Network: Submission to ActivityNet 2018. CVPR workshop. Salt Lake City, U.S., 2018.
-- Tianwei Lin, Xu Zhao, Haisheng Su, Chongjing Wang, Ming Yang. BSN:Boundary Sensitive Network for Temporal Action Proposal Generation. Submission to ECCV 2018.
+- Tianwei Lin, Xu Zhao, Haisheng Su, Chongjing Wang, Ming Yang. BSN: Boundary Sensitive Network for Temporal Action Proposal Generation. Submission to ECCV 2018.
 
 **Professional Services**
 - Journal Reviewer: Neurocomputing

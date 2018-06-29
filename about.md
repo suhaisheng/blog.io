@@ -48,7 +48,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 - Oct 2017 Excellent Graduate Student Scholarship (Top 10% in automation department)
 - Dec 2015 National Scholarship (highest honor for undergradutes, top 2% nationwide)
 - Dec 2014 Seagate Scholarship
-- Dec 2014 & Dec 2015 & Dec 2016 First Prize Scholarship (Top 5% in China)
+- Dec 2014 & Dec 2015 & Dec 2016 First Class Scholarship (Top 5% in China)
 
 **Honors and Awards**
 - Nov 2017 Second Class Winner in 2017 National Postgraduate Mathematical Contest in Modeling (NPMCM)

@@ -6,7 +6,8 @@ header-img: "img/green.jpg"
 ---
 
 <table border="0" cellpadding="1" cellspacing="1">
-<tbody><tr>
+<tbody>
+<tr>
 <td>
 <br>
 <img src="/img/SHS.jpg" align="RIGHT" hspace="5" height="240">
@@ -21,8 +22,6 @@ Vision Lab, Department of Automation<br>
 Shanghai Jiao Tong University<br><br>
 2-208 SEIEE Building,
 800 Dongchuan Road, Shanghai 200240, P.R. China <br>
-</td>
-<td>
 </td>
 </tr>
 </tbody>

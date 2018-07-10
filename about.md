@@ -5,7 +5,7 @@ description: "Too young too simple"
 header-img: "img/green.jpg"
 ---
 
-<table border="0" cellpadding="1" cellspacing="1">
+<table border="0" cellpadding="0" cellspacing="1">
 <tbody><tr>
 <td>
 <img src="/img/SHS.jpg" align="RIGHT" width="256" height="256">

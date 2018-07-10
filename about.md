@@ -5,10 +5,10 @@ description: "Too young too simple"
 header-img: "img/green.jpg"
 ---
 
-<table border="0" cellpadding="0" cellspacing="1">
+<table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td>
-<img src="/img/SHS.jpg" align="RIGHT" width="256" height="256">
+<img src="/img/SHS.jpg" align="CENTER" width="256" height="256">
 </td>
 <td >
 <!-- <h3> Haisheng Su  </h3> -->

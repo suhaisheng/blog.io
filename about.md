@@ -21,11 +21,20 @@ Master Candidate
 Vision Lab, Department of Automation<br>
 Shanghai Jiao Tong University<br><br>
 2-208 SEIEE Building,
-800 Dongchuan Road, Shanghai 200240, P.R. China <br>
+800 Dongchuan Road, Shanghai 200240, P.R. China <br><br>
+E-mail: suhaisheng@sjtu.edu.cn<br>
 </td>
 </tr>
 </tbody>
 </table>
+
+**Haisheng Su （苏海昇）**
+- Master Candidate
+- Vision Lab, Department of Automation
+- Shanghai Jiao Tong University
+- 2-208 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P.R. 
+- China 
+- E-mail: suhaisheng@sjtu.edu.cn
 
 ---
 

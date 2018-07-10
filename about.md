@@ -4,7 +4,7 @@ title: "About"
 description: "Too young too simple"
 header-img: "img/green.jpg"
 ---
-<img src="/img/SHS.jpg" width=256 height=256 />
+<img src="/img/SHS.jpg" width="50%" height="50%" />
 
 **Haisheng Su （苏海昇）**
 - Master Candidate

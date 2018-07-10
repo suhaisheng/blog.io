@@ -17,11 +17,10 @@ header-img: "img/green.jpg"
 <p class="style2" > Haisheng Su （苏海昇）</p>
 Master Candidate
 <br>
-<br>
 Vision Lab, Department of Automation<br>
-Shanghai Jiao Tong University<br><br>
+Shanghai Jiao Tong University<br>
 2-208 SEIEE Building,
-800 Dongchuan Road, Shanghai 200240, P.R. China <br><br>
+800 Dongchuan Road, Shanghai 200240, P.R. China <br>
 E-mail: suhaisheng@sjtu.edu.cn<br>
 </td>
 </tr>

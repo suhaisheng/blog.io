@@ -5,17 +5,28 @@ description: "Too young too simple"
 header-img: "img/green.jpg"
 ---
 
-<center>
-<img src="/img/SHS.jpg" width=256 height=256 />
-</center>
-
-**Haisheng Su （苏海昇）**
-- Master Candidate
-- Vision Lab, Department of Automation
-- Shanghai Jiao Tong University
-- 2-208 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P.R. 
-- China 
-- E-mail: suhaisheng@sjtu.edu.cn
+<table border="0" cellpadding="1" cellspacing="1">
+<tbody><tr>
+<td>
+<br>
+<img src="/img/SHS.jpg" align="RIGHT" hspace="5" height="240">
+</td>
+<td >
+<!-- <h3> Haisheng Su  </h3> -->
+<p class="style2" > Haisheng Su （苏海昇）</p>
+Master Candidate
+<br>
+<br>
+Vision Lab, Department of Automation<br>
+Shanghai Jiao Tong University<br><br>
+2-208 SEIEE Building,
+800 Dongchuan Road, Shanghai 200240, P.R. China <br>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
 
 ---
 

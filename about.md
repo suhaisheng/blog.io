@@ -34,12 +34,12 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 ---
 
 **Recent Activities**:
-- One paper accepted to ECCV 2018.
-- Our team SJTU won the first place in Temporal Action Localization task and second place in Temporal Action Proposal task of ActivityNet Large Scale Activity Recognition Challenge 2018! This year the challenge is hosted together with CVPR'18.
+- One paper accepted to **ECCV 2018**.
+- Our team SJTU won the **first place** in Temporal Action Localization task and **second place** in Temporal Action Proposal task of **ActivityNet Large Scale Activity Recognition Challenge 2018!** This year the challenge is hosted together with **CVPR'18**.
 
 **Publications**
-- Tianwei Lin, Xu Zhao, Haisheng Su, Chongjing Wang, Ming Yang. BSN: Boundary Sensitive Network for Temporal Action Proposal Generation. European Conference on Computer Vision (ECCV). Munich, Germany, 2018. 
-- Tianwei Lin, Haisheng Su, Xu Zhao. Boundary Sensitive Network: Submission to ActivityNet 2018. CVPR workshop. Salt Lake City, U.S., 2018.
+- Tianwei Lin, Xu Zhao, **Haisheng Su**, Chongjing Wang, Ming Yang. BSN: Boundary Sensitive Network for Temporal Action Proposal Generation. European Conference on Computer Vision (ECCV). Munich, Germany, 2018. 
+- Tianwei Lin, **Haisheng Su**, Xu Zhao. Boundary Sensitive Network: Submission to ActivityNet 2018. CVPR workshop. Salt Lake City, U.S., 2018.
 
 **Professional Services**
 - Journal Reviewer: Neurocomputing

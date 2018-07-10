@@ -6,11 +6,10 @@ header-img: "img/green.jpg"
 ---
 
 <table border="0" cellpadding="1" cellspacing="1">
-<tbody>
-<tr>
+<tbody><tr>
 <td>
 <br>
-<img src="/img/SHS.jpg" align="RIGHT" hspace="5" height="200">
+<img src="/img/SHS.jpg" align="RIGHT" hspace="5" width="256" height="256">
 </td>
 <td >
 <!-- <h3> Haisheng Su  </h3> -->

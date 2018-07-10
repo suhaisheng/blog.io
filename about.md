@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
 <tr>
 <td>
 <br>
-<img src="/img/SHS.jpg" align="RIGHT" hspace="5" height="240">
+<img src="/img/SHS.jpg" align="RIGHT" hspace="5" height="200">
 </td>
 <td >
 <!-- <h3> Haisheng Su  </h3> -->

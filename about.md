@@ -44,7 +44,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 - **Haisheng Su**, Xu Zhao, Tianwei Lin. **Weakly Supervised Temporal Action Detection with Shot-Based Temporal Pooling Network**. *25th International Conference on Neural Information Processing (**ICONIP**)*. Siem Reap, Cambodia, 2018.
 - Tianwei Lin, Xu Zhao, **Haisheng Su**, Chongjing Wang, Ming Yang. **BSN: Boundary Sensitive Network for Temporal Action Proposal Generation**. *European Conference on Computer Vision (**ECCV**)*. Munich, Germany, 2018. 
 - Tianwei Lin, **Haisheng Su**, Xu Zhao. **Boundary Sensitive Network: Submission to ActivityNet 2018**. *CVPR workshop*. Salt Lake City, U.S., 2018.
-- Zhaoxuan Fan, Xu Zhao, Tianwei Lin, **Haisheng Su**. **Attention Based Multi-View Re-Observation Fusion Network for Skeletal Action Recognition**. **IEEE Transactions on Multimedia**.
+- Zhaoxuan Fan, Xu Zhao, Tianwei Lin, **Haisheng Su**. **Attention Based Multi-View Re-Observation Fusion Network for Skeletal Action Recognition**. *IEEE Transactions on Multimedia*.
 
 **Professional Services**
 - Journal Reviewer: Neurocomputing

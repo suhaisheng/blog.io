@@ -33,13 +33,14 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 ---
 
 **Recent Activities**:
-- One paper submitted to **ACCV 2018**.
+- One paper accepted to **ACCV 2018**.
+- Our team SJTU got the rank **5/1371** in Crowd Counting task of **Baidu Star Developer Competition 2018**.
 - One paper accepted to **ICONIP 2018**.
 - One paper accepted to **ECCV 2018**.
 - Our team SJTU won the **first place** in Temporal Action Localization task and **second place** in Temporal Action Proposal task of **ActivityNet Large Scale Activity Recognition Challenge 2018!** This year the challenge is hosted together with **CVPR'18**.
 
 **Publications**
-- **Haisheng Su***, Xu Zhao, Tianwei Lin. **Cascaded Pyramid Mining Network for Weakly Supervised Temporal Action Localization**. *Submission to ACCV 2018*.
+- **Haisheng Su***, Xu Zhao, Tianwei Lin. **Cascaded Pyramid Mining Network for Weakly Supervised Temporal Action Localization**. *Asian Conference on Computer Vision(**ACCV**)*. Perth, Western Australia, 2018.
 - **Haisheng Su**, Xu Zhao, Tianwei Lin. **Weakly Supervised Temporal Action Detection with Shot-Based Temporal Pooling Network**. *25th International Conference on Neural Information Processing (**ICONIP**)*. Siem Reap, Cambodia, 2018.
 - Tianwei Lin, Xu Zhao, **Haisheng Su**, Chongjing Wang, Ming Yang. **BSN: Boundary Sensitive Network for Temporal Action Proposal Generation**. *European Conference on Computer Vision (**ECCV**)*. Munich, Germany, 2018. 
 - Tianwei Lin, **Haisheng Su**, Xu Zhao. **Boundary Sensitive Network: Submission to ActivityNet 2018**. *CVPR workshop*. Salt Lake City, U.S., 2018.
@@ -55,6 +56,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 - Dec 2014 & Dec 2015 & Dec 2016 First Class Scholarship (Top 5% in China)
 
 **Honors and Awards**
+- Sep 2018 Third Class Winner in 2018 Baidu Star Developer Competition
 - Nov 2017 Second Class Winner in 2017 National Postgraduate Mathematical Contest in Modeling (NPMCM)
 - Apr 2016 Honorable Mention in 2016 Mathematical Contest in Modeling (MCM)
 - Aug 2016 Third Class Winner in 2016 National College Student Robot Contest (RoboMasters)
@@ -70,7 +72,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 - [Zhihu：@苏海昇](https://www.zhihu.com/people/sjtushs)
 
 ---
-Lasted modified: July 10 2018
+Lasted modified: Sep 21 2018
 
 
 

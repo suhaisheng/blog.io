@@ -40,7 +40,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 - Our team SJTU won the **first place** in Temporal Action Localization task and **second place** in Temporal Action Proposal task of **ActivityNet Large Scale Activity Recognition Challenge 2018!** This year the challenge is hosted together with **CVPR'18**.
 
 **Publications**
-- **Haisheng Su**, Xu Zhao, Tianwei Lin. **Cascaded Pyramid Mining Network for Weakly Supervised Temporal Action Localization**. *Asian Conference on Computer Vision(**ACCV**)*. Perth, Western Australia, 2018.
+- **Haisheng Su**, Xu Zhao, Tianwei Lin. **Cascaded Pyramid Mining Network for Weakly Supervised Temporal Action Localization**. *Asian Conference on Computer Vision(**ACCV**)*. Perth, Western Australia, 2018. Acceptance rate: 21%
 - **Haisheng Su**, Xu Zhao, Tianwei Lin. **Weakly Supervised Temporal Action Detection with Shot-Based Temporal Pooling Network**. *25th International Conference on Neural Information Processing (**ICONIP**)*. Siem Reap, Cambodia, 2018.
 - Tianwei Lin, Xu Zhao, **Haisheng Su**, Chongjing Wang, Ming Yang. **BSN: Boundary Sensitive Network for Temporal Action Proposal Generation**. *European Conference on Computer Vision (**ECCV**)*. Munich, Germany, 2018. 
 - Tianwei Lin, **Haisheng Su**, Xu Zhao. **Boundary Sensitive Network: Submission to ActivityNet 2018**. *CVPR workshop*. Salt Lake City, U.S., 2018.

@@ -15,7 +15,7 @@ header-img: "img/green.jpg"
 ---
 
 **Biography**
-- I am a first-year graduate student in the Computer Vision Laboratory, Shanghai Jiao Tong University, advised by Prof. Xu Zhao. I received my B.Eng from School of Information Science and Engineering at Central South University in 2017.
+- I am a second-year graduate student in the Computer Vision Laboratory, Shanghai Jiao Tong University, advised by Prof. Xu Zhao. I received my B.Eng from School of Information Science and Engineering at Central South University in 2017.
 
 **Education**
 

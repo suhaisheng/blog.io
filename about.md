@@ -50,6 +50,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 - Journal Reviewer: Neurocomputing
 
 **Scholarships**
+- Set 2018 National scholarship for graduate students
 - Oct 2017 Excellent Graduate Student Scholarship (Top 10% in automation department)
 - Dec 2015 National Scholarship (highest honor for undergradutes, top 2% nationwide)
 - Dec 2014 Seagate Scholarship

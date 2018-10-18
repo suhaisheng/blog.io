@@ -73,6 +73,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 - [Zhihu：@苏海昇](https://www.zhihu.com/people/sjtushs)
 
 - [LinkedIn：@苏海昇](https://www.linkedin.com/in/%E6%B5%B7%E6%98%87-%E8%8B%8F-140b52137/)
+
 ---
 Lasted modified: Sep 21 2018
 

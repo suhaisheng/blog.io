@@ -51,6 +51,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 
 **Scholarships**
 - Set 2018 National scholarship for graduate students
+- Oct 2018 Excellent Graduate Student Scholarship (Top 10% in automation department)
 - Oct 2017 Excellent Graduate Student Scholarship (Top 10% in automation department)
 - Dec 2015 National Scholarship (highest honor for undergradutes, top 2% nationwide)
 - Dec 2014 Seagate Scholarship
@@ -75,7 +76,7 @@ Central South University, Changsha, Hunan, China (Sep 2013 - July 2017)
 - [LinkedIn：@苏海昇](https://www.linkedin.com/in/%E6%B5%B7%E6%98%87-%E8%8B%8F-140b52137/)
 
 ---
-Lasted modified: Sep 21 2018
+Lasted modified: Nov 3 2018
 
 
 
